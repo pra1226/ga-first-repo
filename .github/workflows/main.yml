@@ -1,0 +1,4 @@
+name: test wf
+on: push
+  jobs: echo"hello world"
+  
